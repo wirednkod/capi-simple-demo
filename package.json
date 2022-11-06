@@ -1,11 +1,8 @@
 {
-  "name": "@substrate/smoldot-browser-demo",
+  "name": "capi-simple-demo",
   "version": "1.0.0",
-  "author": "Parity Team <admin@parity.io>",
-  "homepage": "https://wirednkod.github.io/sc-simple-demo/",
-  "contributors": [
-    "Nikolaos Kontakis <nikolaos@parity.io>"
-  ],
+  "author": "Nikos Kontakis <nikolaos@parity.io>",
+  "homepage": "https://wirednkod.github.io/capi-simple-demo/",
   "license": "Apache-2.0",
   "browserslist": [
     "last 2 versions"
