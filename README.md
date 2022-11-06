@@ -1,7 +1,7 @@
 # CAPI Simple Demo
 This is a CAPI simple browser demo that uses CAPI to connect to `Westend` chain, retrieves (and shows) info and the latest headers from the chain.
 
-### Demo: https://wirednkod.github.io/sc-simple-demo/
+### Demo: https://wirednkod.github.io/capi-simple-demo/
 
 ## Getting Started
 
